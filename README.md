@@ -1,1 +1,1 @@
-# A Synthesizer for timbre generation
+# A Synthesizer
